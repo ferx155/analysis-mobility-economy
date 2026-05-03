@@ -11,8 +11,7 @@ Notebook principal con limpieza, join, análisis, visualizaciones y conclusiones
 
 ## ¿Cómo abrir el notebook en Google Colab?
 Haz click en el siguiente enlace:
-https://colab.research.google.com/drive/1Gbr_nFM-vcz4MvQJJXDnAsCUFO4oIHUt?usp=sharing
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](S5_ladb_mobility_economy_project_student.ipynb)
 O:
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
